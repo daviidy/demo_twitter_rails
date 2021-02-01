@@ -1,4 +1,4 @@
-# members-only
+# demo-twitter
 In this project, we built a twitter clone with Rails 6.
 
 ## Project screenshot
